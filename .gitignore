@@ -1,0 +1,17 @@
+# Configuraciones de VSCode
+.vscode/
+
+# Entorno virtual de Python
+.venv/
+
+# Archivos compilados
+*.exe
+*.o
+*.obj
+*.out
+*.class
+
+# Archivos temporales del sistema
+*.log
+*.tmp
+*.swp
